@@ -67,23 +67,10 @@
    <h1 style="border: 2px solid #262626;"></h1>
    <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
        <h2>My Name is Mustafa ER, and I am a Electrical - Electronical Engineering Student</h2>
-            <p>17 Mart 1995 tarihinde Rize’de doğdum. Hayatımın uzun bir dönemi Rize’de geçti. İlk okulu Rize/Güneysu Ulucami ilköğretim okulunda okudum. 8 yıl sonunda SBS sınavı ile Güneysu Ş.K.M Anadolu Öğretmen Lisesine  (şimdiki adıyla Güneysu Ş.K.M Fen Lisesi) yerleştim. 4 yılı da orada geçirdim.
-
-Anadolu Öğretmen Lisesi okumama rağmen ilköğretimden gelen elektronik ilgimden dolayı bölüm olarak üniversite tercih listemde sadece Elektrik ve Elektronik Mühendisliği Bölümü vardı. Yani hedefimden hiç şaşmadım. Şu anda Sakarya Üniversitesinde Elektrik ve Elektronik Mühendisliği Bölümünde eğitimime devam etmekteyim.
-
-Okul sürecinde  kendimi geliştirmek amacıyla ilk senem olmasına rağmen  çeşitli kulüplere kayıt olmaya karar verdim ve bölümümle ilişkili kulupleri takip edip başvurular yaptım. Şu anda bu klüplerden  en faydalı olacağını düşündüğüm <b>"<a href="https://www.facebook.com/sauieee" style="text-decoration: none;">IEEE SAU Student Branch</a>"</b> ta <b>"<a href="https://www.facebook.com/ieeesaucomsoc" style="text-decoration: none;">Chairman Of Communications Society</a>"</b> (önceden "Electrical Electronical Team Leader and Project Developer") olarak görev almaktayım.
-
-İletişim için  "mail@mustafaer.pro" mail adresimi yada iletişim kısmını kullanabilirsiniz.
-
-Profesyonel profilim için <a href="" style="text-decoration: none;">Linkedln</a> ağımı inceleyebilirsiniz …
-
-</p> 
+       <p>I was born on March 17, 1995 in Rize. Rize passed a long period of my life. The first school Rize / Güneysu Ulucami I read in elementary school. SBS exam at the end of 8 years Güneysu S.K.M the Anatolian Teacher High School (now called the Güneysu S.K.M Science High School), I settled. I spent 4 years there. Anatolian Teacher High School as part due to my not reading electronic despite interest from primary college choice on my list had only the Department of Electrical and Electronic Engineering. So I would not be surprised my goal. Currently in Electrical and Electronics Engineering Department at Sakarya University I continue my education. Although my first year at the school process in order to improve myself, I decided to enroll in a variety of clubs and I made reference to follow clubs associated with the department. Currently, I thought it would be the most useful of these clubs "<b><a href="https://www.facebook.com/sauieee" style="text-decoration: none;">IEEE SAU Student Branch</a></b>" A "<b><a href="https://www.facebook.com/ieeesaucomsoc" style="text-decoration: none;">Chairman Of Communications Society</a></b>" (formerly "Electronical Electrical Team Leader and Project Developer") as I receive the task. For contact "mail@mustafaer.pro" my e-mail address or use the contact section. You can examine the <a href="https://tr.linkedin.com/in/mustafaer/">LinkedIn</a> network for professional profiles.</p> 
    </div>
    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
    <h1 style="border: 2px solid #262626;"></h1>
-   </div>
-   <div class="container">
-       
    </div>
 </div>
 </body>
